@@ -1,5 +1,5 @@
-```sql
--- SQL Data Cleaning/Transformation Project Summary
+
+# SQL Data Cleaning/Transformation Project Summary
 
 ## Overview:
 This project involves cleaning and transforming data from the NashvilleHousing dataset, which was imported into SQL Server Management Studio (SSMS) from an Excel file. The tasks include standardizing date formats, populating missing property addresses, splitting address columns, replacing values, removing duplicates, and dropping unnecessary columns to prepare the dataset for analysis and reporting.
